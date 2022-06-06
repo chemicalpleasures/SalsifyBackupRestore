@@ -1,0 +1,2 @@
+The aim of this script is to access the Salsify API and upload the backup file (backup.json) which is created by Salsify
+automatically. In theory this should restore an entire inventory. Currently configured to a sandbox environment.
